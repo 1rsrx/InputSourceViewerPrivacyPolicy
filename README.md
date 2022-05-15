@@ -1,60 +1,59 @@
 # InputSourceViewerPrivacyPolicy
 
-**Privacy Policy**
+## プライバシーポリシー
 
-Hikaru Kuroda built the InputSourceViewer app as a Free app. This SERVICE is provided by Hikaru Kuroda at no cost and is intended for use as is.
+黒田光は、InputSourceViewerアプリを無料アプリとして作成しました。本サービスは、黒田光により無償で提供され、そのまま使用することができます。
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+このページは、お客様が私のサービスを利用される場合、個人情報の収集、使用、開示に関する私の方針をお知らせするためのものです。
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+お客様が当社のサービスをご利用になる場合、お客様は本ポリシーに関連する情報の収集と使用に同意されたものとします。私が収集する個人情報は、サービスを提供し、改善するために使用されます。私は、このプライバシーポリシーに記載されている場合を除き、誰ともあなたの情報を使用または共有することはありません。
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at InputSourceViewer unless otherwise defined in this Privacy Policy.
+このプライバシーポリシーで使用されている用語は、このプライバシーポリシーで特に定義されていない限り、InputSourceViewerでアクセスできる当社の利用規約と同じ意味を持っています。
 
-**Information Collection and Use**
+情報の収集と使用
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+当社のサービスをご利用いただくにあたり、より良いサービスを提供するために、個人を特定できる情報の提供をお願いすることがあります。私が要求する情報は、あなたのデバイスに保持され、私はどのような方法で収集されることはありません。
 
-**Log Data**
+## ログデータ
 
-I want to inform you that if I detect errors and unsupported input sources in the app, I will collect data and information (through third party products) called log data on your phone.
+私は、アプリでエラーやサポートされていない入力ソースを検出した場合、私はあなたの携帯電話でログデータと呼ばれるデータと情報を（サードパーティの製品を通じて）収集することをお知らせしたいと思います。
 
-**Cookies**
+## クッキー（Cookies)
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+クッキーは、一般的に匿名の一意の識別子として使用される少量のデータを含むファイルです。これは、お客様が訪問したウェブサイトからお客様のブラウザに送信され、お客様の端末の内部メモリに保存されます。
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+本サービスでは、この「Cookie」を明示的に使用することはありません。ただし、本アプリでは、情報収集やサービス向上のために、「Cookie」を使用するサードパーティのコードやライブラリを使用することがあります。お客様は、これらのクッキーを受け入れるか拒否するか、また、お客様のデバイスにクッキーが送信されたときにそれを知ることができるオプションがあります。お客様が当社のクッキーを拒否することを選択した場合、本サービスの一部をご利用いただけない場合があります。
 
-**Service Providers**
+サービス提供者
 
-I may employ third-party companies and individuals due to the following reasons:
+私は、以下の理由により、第三者の企業や個人を雇用することがあります。
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+当社のサービスを容易にするため。
+当社に代わって本サービスを提供するため。
+サービスに関連するサービスを提供するため、または
+本サービスがどのように使用されているかの分析に協力するため。
+これらの第三者がユーザーの個人情報にアクセスできることを、本サービスのユーザーにお知らせしたいと思います。その理由は、当社に代わって彼らに割り当てられたタスクを実行するためです。ただし、これらの第三者は、他のいかなる目的にも情報を開示または使用しない義務を負っています。
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+## セキュリティ
 
-**Security**
+お客様の個人情報をご提供いただくことは、お客様の信頼に応えることであり、そのために商業的に利用可能な手段で個人情報を保護するように努めています。しかし、インターネット上の送信方法、または電子的な保存方法は、100％安全で信頼できるものではなく、その絶対的な安全性を保証するものではありませんことをご留意ください。
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+## 他のサイトへのリンク
 
-**Links to Other Sites**
+本サービスには、他のサイトへのリンクが含まれている場合があります。お客様が第三者のリンクをクリックすると、そのサイトへ移動します。これらの外部サイトは、私が運営しているわけではないことにご注意ください。したがって、私は、これらのウェブサイトのプライバシーポリシーを確認することを強くお勧めします。私は、第三者のサイトやサービスのコンテンツ、プライバシーポリシー、慣行を管理することはできませんし、責任を負うこともありません。
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## 子供のプライバシー
 
-**Children’s Privacy**
+私は、意図的に子供から個人を特定できるような情報を収集することはありません。私は、すべての子供がアプリケーションおよび/またはサービスを通じて個人を特定できる情報を送信しないよう奨励します。私は、両親および法定代理人がお子様のインターネット利用を監視し、お子様が許可なく本アプリケーションおよび/または本サービスを通じて個人を特定できる情報を提供しないよう指導することにより、本ポリシーの施行を支援することを推奨します。お子様が本アプリケーションおよび/または本サービスを通じて個人を特定できる情報を当社に提供したと信じるに足る理由がある場合、当社にご連絡ください。また、お客様の国において、お客様の個人を特定できる情報の処理に同意するには、お客様は16歳以上でなければなりません（国によっては、お客様の親または後見人がお客様に代わって同意することを認める場合があります）。
 
-I do not knowingly collect personally identifiable information from children. I encourage all children to never submit any personally identifiable information through the Application and/or Services. I encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+## 本プライバシーポリシーの変更
 
-**Changes to This Privacy Policy**
+私は、随時、当社のプライバシーポリシーを更新することがあります。従って、お客様はこのページを定期的にご覧になり、変更を確認されることをお勧めします。私は、このページに新しいプライバシーポリシーを掲載することにより、変更を通知します。
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+このポリシーは、2022-05-15より有効となります。
 
-This policy is effective as of 2022-05-15
+## お問い合わせ
 
-**Contact Us**
+私のプライバシーポリシーについてご質問やご提案がありましたら、ご遠慮なく h1kqaa@gmail.com までご連絡ください。
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at h1kqaa@gmail.com.
-
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+このプライバシーポリシーのページはprivacypolicytemplate.netで作成され、App Privacy Policy Generatorで修正/生成されました。 無料版のDeepL翻訳（www.DeepL.com/Translator）で翻訳しました。
